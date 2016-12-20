@@ -3,7 +3,7 @@ package com.johnzeng.imageloadlib;
 import android.content.Context;
 import android.widget.ImageView;
 
-/**
+/** interface
  * Created by zengqang on 2016/12/7.
  */
 
